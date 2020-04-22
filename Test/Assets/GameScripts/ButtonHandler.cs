@@ -9,7 +9,7 @@ public class ButtonHandler : MonoBehaviour
     public GameObject spread1;
     public GameObject spread2;
     public GameObject spread3;
-    public static int which = 2;
+    public static int which = 1;
 
     // Update is called once per frame
     public void Shoot()
